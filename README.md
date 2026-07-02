@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 I'm Misha
 
-<!--
-**anmovich/anmovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on **Go**.
 
-Here are some ideas to get you started:
+I'm currently learning backend development by building real projects and improving my understanding of distributed systems and modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+
+* 💻 Backend Developer (Go)
+* 🐧 Linux user
+* 🐳 Working with Docker
+* 🌐 Building REST APIs
+* 📚 Always learning and improving my backend skills
+
+## 🛠 Tech Stack
+
+**Languages**
+
+* Go
+
+**Backend**
+
+* REST API
+* HTTP
+* JSON
+
+**DevOps & Tools**
+
+* Docker
+* Git
+* Linux
+
+## 📈 Currently learning
+
+* PostgreSQL
+* Redis
+* gRPC
+* Clean Architecture
+* Unit Testing
+* CI/CD
+
+## 📫 Contact
+
+* Telegram: @grachiso
+* Email: [mvanme@tutamail.com](mailto:mvanme@tutamail.com)
